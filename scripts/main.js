@@ -7,18 +7,19 @@ const mainContainer = document.querySelector("#container")
 const applicationHTML = `
 <h1>Brewed Awakenings</h1>
 <article class="details">
-    <section class="detail--column list details__employees">
+    <section class="detail--column-employees">
         <h2>Employees</h2>
         ${Employees()}
     </section>
-    <section class="detail--column list details__products">
+    <section class="detail--column-products">
         <h2>Products</h2>
         ${Products()}
     </section>
 </article>
+<h2>Orders</h2>
         ${Orders()}
 <article class="orders">
-    <h2>Orders</h2>
+    
     
 </article>
 `
