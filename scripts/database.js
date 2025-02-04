@@ -66,7 +66,15 @@ const database = {
         email: "abiddle9@cafepress.com",
         hourlyRate: 13.00
 
-    }],
+    },
+    {
+        id: 11,
+        name: "Charles Pon",
+        email: "Charles@cafepress.com",
+        hourlyRate: 13.50
+
+    }
+],
     products: [{
         id: 1, name: "Large Coffee", price: 6.00
     }, {

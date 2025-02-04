@@ -19,3 +19,16 @@ h1,h2,h3,h4,h5,h6 {
   letter-spacing: 2px;
 }
 
+.detail--column-employees {
+    padding: 1rem;
+    border: 1px dotted goldenrod;
+	
+}
+.detail--column-products{
+	margin-right: 35rem;
+    padding: 1rem;
+    border: 1px dotted goldenrod;
+}
+.details {
+	
+}
